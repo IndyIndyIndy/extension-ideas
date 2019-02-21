@@ -12,4 +12,4 @@ Ideas for possible future TYPO3 extensions.
 - executable in CLI mode
 
 ## forms validation
-- easy to use frontend + server side validation for **forms**
+- easy to use frontend + server side ajax validation for **forms**

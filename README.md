@@ -13,3 +13,8 @@ Ideas for possible future TYPO3 extensions.
 
 ## forms validation
 - easy to use frontend + server side ajax validation for **forms**
+
+## search extension
+- search solution for projects that are too small for solr / elasticsearch, without having to rely on a naive / weakly optimized mysql fulltext search
+- maybe a readyonly sqlite database?   	 
+- or some nosql database that runs on a typical php-only default server configuration?

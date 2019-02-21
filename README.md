@@ -18,3 +18,4 @@ Ideas for possible future TYPO3 extensions.
 - search solution for projects that are too small for solr / elasticsearch, without having to rely on a naive / weakly optimized mysql fulltext search
 - maybe a readyonly sqlite database?   	 
 - or some nosql database that runs on a typical php-only default server configuration?
+- ideally as an extension to TYPO3 core's indexed_search. But **index_search** appears to be a hard-wired mess right now, that does not allow injecting an alternative search engine. So refactor the extension in the core?

@@ -25,3 +25,6 @@ Ideas for possible future TYPO3 extensions.
 
 ## slow queries
 - Helper for automatically detecting slow (n+1) queries in Extbase ORM / Doctrine Query Builder
+
+## Clockwork
+- Clockwork (Chrome extension) integration for TYPO3 CMS.

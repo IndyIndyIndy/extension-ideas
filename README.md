@@ -22,3 +22,6 @@ Ideas for possible future TYPO3 extensions.
 
 ## TYPO3 performance guide
 - finish the performance guide
+
+## slow queries
+- Helper for automatically detecting slow (n+1) queries in Extbase ORM / Doctrine Query Builder

@@ -45,3 +45,6 @@ Ideas for possible future TYPO3 extensions.
 
 ## live to stage/dev
 - easy migration of db tables from a live instance to a stage/dev instance with reliable, automatic anonymization of data.
+
+## extension blacklist
+- automatically disallow the installation of a blacklist of extension keys.

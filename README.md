@@ -28,3 +28,6 @@ Ideas for possible future TYPO3 extensions.
 
 ## Clockwork
 - Clockwork (Chrome extension) integration for TYPO3 CMS.
+
+## tattica integration
+- advanced image loading queue / rules in the frontend with tattica.

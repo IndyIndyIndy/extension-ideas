@@ -38,3 +38,4 @@ Ideas for possible future TYPO3 extensions.
 ## evaluate shepherd.js
 - give backend editors a guided tutorial tour through the TYPO3 backend.
 - customizable popups
+- there appears to already be an ext called **guide**? -> check out

@@ -26,8 +26,9 @@ Ideas for possible future TYPO3 extensions.
 ## slow queries
 - Helper for automatically detecting slow (n+1) queries in Extbase ORM / Doctrine Query Builder
 
-## Clockwork
+## chrome dev tools integration
 - Clockwork (Chrome extension) integration for TYPO3 CMS.
+- OR alternatively php-console integration with TYPO3: https://github.com/barbushin/php-console
 
 ## tattica integration
 - advanced image loading queue / rules in the frontend with tattica.

@@ -39,3 +39,6 @@ Ideas for possible future TYPO3 extensions.
 - give backend editors a guided tutorial tour through the TYPO3 backend.
 - customizable popups
 - there appears to already be an ext called **guide**? -> check out
+
+## live to stage/dev
+- easy migration of db tables from a live instance to a stage/dev instance with reliable, automatic anonymization of data.

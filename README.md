@@ -31,3 +31,6 @@ Ideas for possible future TYPO3 extensions.
 
 ## tattica integration
 - advanced image loading queue / rules in the frontend with tattica.
+
+## js logger
+- log client side js errors (anonymized!) inside TYPO3 backend / PSR LoggerInterface / Devlog.

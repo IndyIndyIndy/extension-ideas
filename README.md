@@ -33,11 +33,6 @@ Ideas for possible future TYPO3 extensions.
 ## tattica integration
 - advanced image loading queue / rules in the frontend with tattica.
 
-## js logger
-- log client side js errors (anonymized!) inside TYPO3 backend / PSR LoggerInterface / Devlog.
-- via ajax
-- probably needs js source map support
-
 ## evaluate shepherd.js
 - give backend editors a guided tutorial tour through the TYPO3 backend.
 - customizable popups

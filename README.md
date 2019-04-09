@@ -12,6 +12,7 @@ Ideas for possible future TYPO3 extensions.
   - alternative plain text view for html emails
   - typo3 link builder integration in grapejs?
   - image upload
+  - button to send test emails to a email adress
   - see https://github.com/artf/grapesjs-preset-newsletter
 
 ## automatically create backend user permissions

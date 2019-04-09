@@ -9,6 +9,7 @@ Ideas for possible future TYPO3 extensions.
   - allow for a (configurable) white-list of fluid viewhelpers in grapejs
   - create ready-to-use html components for grapejs as fluid templates in a custom extension 
   - translatable / multilanguage support
+  - alternative plain text view for html emails
 
 ## automatically create backend user permissions
 - configure default beusers und beuser group settings for newly setup TYPO3 sites with YAML

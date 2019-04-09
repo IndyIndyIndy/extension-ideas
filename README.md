@@ -5,6 +5,10 @@ Ideas for possible future TYPO3 extensions.
 - backend module that enables users without html knowledge to click together email templates via **grapejs**
   - integration to **forms** extension
   - configurable html components (like the companys logo, footer, etc.)
+  - template variables that correspond to input fields from a yaml form
+  - allow for a (configurable) white-list of fluid viewhelpers in grapejs
+  - create ready-to-use html components for grapejs as fluid templates in a custom extension 
+  - translatable / multilanguage support
 
 ## automatically create backend user permissions
 - configure default beusers und beuser group settings for newly setup TYPO3 sites with YAML

@@ -10,6 +10,9 @@ Ideas for possible future TYPO3 extensions.
   - create ready-to-use html components for grapejs as fluid templates in a custom extension 
   - translatable / multilanguage support
   - alternative plain text view for html emails
+  - typo3 link builder integration in grapejs?
+  - image upload
+  - see https://github.com/artf/grapesjs-preset-newsletter
 
 ## automatically create backend user permissions
 - configure default beusers und beuser group settings for newly setup TYPO3 sites with YAML

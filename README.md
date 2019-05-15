@@ -3,6 +3,7 @@ Ideas for possible future TYPO3 extensions.
 
 ## adminpanel extended
 - list the exact infos for each _INT object on the webpage (instead of just the count)
+$GLOBALS['TSFE']->config['INTincScript']:
 
 ## grapejs integration
 - backend module that enables users without html knowledge to click together email templates via **grapejs**

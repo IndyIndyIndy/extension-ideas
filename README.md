@@ -1,6 +1,9 @@
 # extension-ideas
 Ideas for possible future TYPO3 extensions.
 
+## adminpanel extended
+- list the exact infos for each _INT object on the webpage (instead of just the count)
+
 ## grapejs integration
 - backend module that enables users without html knowledge to click together email templates via **grapejs**
   - integration to **forms** extension

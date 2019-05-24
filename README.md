@@ -1,6 +1,9 @@
 # extension-ideas
 Ideas for possible future TYPO3 extensions.
 
+## media
+- media element needs support for configuration like "muted" or "controls"
+
 ## lowlevel
 - use ajax/js in the tree view to allow for a more fluid browsing through the values without reloading the page every single time
 - ts constants in template module have the same problem.

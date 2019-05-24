@@ -3,10 +3,12 @@ Ideas for possible future TYPO3 extensions.
 
 ## clipboard
 - improve the clipboard in the typo3 backend
-- code is a mess
+- code is a mess. needs a cleaner api
 - usability is bad
 - adjustable default behaviors (copy, move)
 - copy different record types at once
+- can apparently lead to duplicates when working with translated records?
+- active thumbnails can apparently crash the clipboard?
 
 ## backend shortcuts
 - close modals with ESC

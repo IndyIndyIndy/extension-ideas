@@ -1,6 +1,10 @@
 # extension-ideas
 Ideas for possible future TYPO3 extensions.
 
+## lowlevel
+- use ajax/js in the tree view to allow for a more fluid browsing through the values without reloading the page every single time
+- ts constants in template module have the same problem.
+
 ## clipboard
 - improve the clipboard in the typo3 backend
 - code is a mess. needs a cleaner api

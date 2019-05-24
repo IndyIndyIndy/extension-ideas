@@ -17,6 +17,7 @@ Ideas for possible future TYPO3 extensions.
 
 ## backend shortcuts
 - close modals with ESC
+- some modals are already closable with ESC (like filelist -> file info module), some are not (inside page content, using the info module for a file reference)
 - os dependent shortcut codes?
 - make shortcuts configurable
 

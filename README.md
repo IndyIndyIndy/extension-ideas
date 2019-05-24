@@ -5,6 +5,7 @@ Ideas for possible future TYPO3 extensions.
 - use ajax/js in the tree view to allow for a more fluid browsing through the values without reloading the page every single time
 - ts constants in template module have the same problem.
 - or maybe use the new svg page tree as base?
+- add form configuration to lowlevel?
 
 ## clipboard
 - improve the clipboard in the typo3 backend
